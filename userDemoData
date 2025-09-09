@@ -1,0 +1,142 @@
+[
+  {
+    "userID": "001",
+    "firstName": "John",
+    "secondName": "Doe",
+    "email": "john.doe@example.com",
+    "location": "New York, USA"
+  },
+  {
+    "userID": "002",
+    "firstName": "Jane",
+    "secondName": "Smith",
+    "email": "jane.smith@example.com",
+    "location": "London, UK"
+  },
+  {
+    "userID": "003",
+    "firstName": "Carlos",
+    "secondName": "Garcia",
+    "email": "carlos.garcia@example.com",
+    "location": "Madrid, Spain"
+  },
+  {
+    "userID": "004",
+    "firstName": "Amina",
+    "secondName": "Khan",
+    "email": "amina.khan@example.com",
+    "location": "Mumbai, India"
+  },
+  {
+    "userID": "005",
+    "firstName": "Liu",
+    "secondName": "Wei",
+    "email": "liu.wei@example.com",
+    "location": "Beijing, China"
+  },
+  {
+    "userID": "006",
+    "firstName": "Anna",
+    "secondName": "Petrova",
+    "email": "anna.petrova@example.com",
+    "location": "Moscow, Russia"
+  },
+  {
+    "userID": "007",
+    "firstName": "Mohammed",
+    "secondName": "Ali",
+    "email": "mohammed.ali@example.com",
+    "location": "Cairo, Egypt"
+  },
+  {
+    "userID": "008",
+    "firstName": "Fatima",
+    "secondName": "Al-Farsi",
+    "email": "fatima.alfarsi@example.com",
+    "location": "Dubai, UAE"
+  },
+  {
+    "userID": "009",
+    "firstName": "Lucas",
+    "secondName": "Müller",
+    "email": "lucas.mueller@example.com",
+    "location": "Berlin, Germany"
+  },
+  {
+    "userID": "010",
+    "firstName": "Sofia",
+    "secondName": "Rodriguez",
+    "email": "sofia.rodriguez@example.com",
+    "location": "Buenos Aires, Argentina"
+  },
+  {
+    "userID": "011",
+    "firstName": "Emily",
+    "secondName": "Clark",
+    "email": "emily.clark@example.com",
+    "location": "Sydney, Australia"
+  },
+  {
+    "userID": "012",
+    "firstName": "Ahmed",
+    "secondName": "Omar",
+    "email": "ahmed.omar@example.com",
+    "location": "Istanbul, Turkey"
+  },
+  {
+    "userID": "013",
+    "firstName": "Chloe",
+    "secondName": "Martin",
+    "email": "chloe.martin@example.com",
+    "location": "Paris, France"
+  },
+  {
+    "userID": "014",
+    "firstName": "David",
+    "secondName": "Kim",
+    "email": "david.kim@example.com",
+    "location": "Seoul, South Korea"
+  },
+  {
+    "userID": "015",
+    "firstName": "Isabella",
+    "secondName": "Rossi",
+    "email": "isabella.rossi@example.com",
+    "location": "Rome, Italy"
+  },
+  {
+    "userID": "016",
+    "firstName": "William",
+    "secondName": "Brown",
+    "email": "william.brown@example.com",
+    "location": "Toronto, Canada"
+  },
+  {
+    "userID": "017",
+    "firstName": "Sara",
+    "secondName": "Johansson",
+    "email": "sara.johansson@example.com",
+    "location": "Stockholm, Sweden"
+  },
+  {
+    "userID": "018",
+    "firstName": "Ivan",
+    "secondName": "Popov",
+    "email": "ivan.popov@example.com",
+    "location": "Sofia, Bulgaria"
+  },
+  {
+    "userID": "019",
+    "firstName": "Amelia",
+    "secondName": "Nguyen",
+    "email": "amelia.nguyen@example.com",
+    "location": "Hanoi, Vietnam"
+  },
+  {
+    "userID": "020",
+    "firstName": "Jacob",
+    "secondName": "Wilson",
+    "email": "jacob.wilson@example.com",
+    "location": "Cape Town, South Africa"
+  }
+]
